@@ -1,0 +1,12 @@
+{
+  "name": "pocotest",
+  "version": "0.0.1",
+  "dependencies": [
+    {
+      "name": "poco",
+      "features": [
+        "sqlite3"
+      ]
+    }
+  ]
+}
